@@ -5,7 +5,7 @@ BOOKS: Player’s Handbook, Dungeon Master’s Guide, Monster Manual, Sword Coas
 ROLE: Dungeon Master
 THEME: High Fantasy
 TONALITY: Whimsical & Heroic
-CHARACTER: Candice, a female drow rogue from Menzoberranzan
+CHARACTER: Illyndra, a female drow rogue from Menzoberranzan
 LOCATION: The city of Neverwinter, on the Sword Coast
 
 
