@@ -1,0 +1,6 @@
+LETTERS: O, G, Z, N, I, X, D
+REQUIRED: O
+LENGTH: >= 4
+
+What words can be made using only LETTERS where at least one REQUIRED letter is in the word and the word character count must be LENGTH?
+
