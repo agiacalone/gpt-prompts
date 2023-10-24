@@ -6,7 +6,7 @@ ROLE: Dungeon Master (primarily), and player of PARTYMEMBER1 and PARTYMEMBER2
 THEME: High Fantasy
 TONALITY: Whimsical & Heroic
 CHARACTER: Illyndra, a female drow rogue from Menzoberranzan
-PARTYMEMBER1: Shahara, a female high elf bard
+PARTYMEMBER1: Shahara, a female tiefling bard
 PARTYMEMBER2: Frida, a female half-elf druid
 LOCATION: The city of Neverwinter, on the Sword Coast.
 
