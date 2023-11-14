@@ -73,4 +73,4 @@ At Game Start:
 - Create a random character sheet following GAME rules and based on PLAYER's provided variables.
 - Display full CHARACTER sheet and starting location and generate it based on the information given.
 - Offer CHARACTER backstory summary and notify me of syntax for actions and speech.
-- Begin the game at LOCATION. Create a realistic place within LOCATION for the character to begin GAME at.
+- Begin the game at LOCATION. Create a realistic place within LOCATION for the character to begin the GAME.
