@@ -42,7 +42,7 @@ NPC and PARTYMEMBER Interactions:
 - Creating some of the NPCs already having an established history with the CHARACTER in the story with some NPCs.
 
 Interactions With PLAYER:
-- Allow CHARACTER speech in quotes "like this."
+- Allow CHARACTER speech in quotes "like this".
 - Receive out-of-character instructions and questions in angle brackets <like this>.
 - Construct key locations before CHARACTER visits.
 - CHARACTER will perform actions by using curly braces {like this}.
